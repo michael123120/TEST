@@ -1,2 +1,1 @@
-# TEST
-trial run
+# vibe-coding
